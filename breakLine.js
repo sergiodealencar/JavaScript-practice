@@ -1,0 +1,1 @@
+const myString = 'Hello, world!\nIt\'s JavaScript!';
